@@ -16,3 +16,13 @@ The study evaluates the zero-shot classification model's performance using the f
 - **S2Looking**: A diverse dataset that includes various types of land cover changes. For additional information, visit [S2Looking Dataset](https://github.com/S2Looking/Dataset).
 
 
+## Python Codes and Notebooks:
+**CLIPModel.py:** This code contains a function which runs CLIP Model on a image pair and calculates differences between probabilities of given 32 object names. 
+
+**collect_data.py:** It runs CLIP Model for each image pair in given dataset and saves the difference arrays.
+
+**data_augmentation.ipynb:** It augments 0 labeled (non change) images.
+
+**classification.ipynb:** This notebooks a threshold optimization method and some machine learning algorithms which classify images according to output of CLIP Model
+
+
