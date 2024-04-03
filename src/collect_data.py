@@ -33,4 +33,4 @@ for img in os.listdir(image_1_folder):
         results_df = results_df._append({'img': img, 'differences': differences.tolist()}, ignore_index=True)
         print(results_df)
 
-results_df.to_csv('/media/kursat/TOSHIBA EXT16/projects/satellite/YENI/visual-language-model/zero-shot/augmented_S2Looking.csv', index=False)
+results_df.to_csv('/zero-shot/augmented_S2Looking.csv', index=False)
