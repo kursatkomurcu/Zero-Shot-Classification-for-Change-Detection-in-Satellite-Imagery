@@ -49,8 +49,8 @@ The study evaluates the zero-shot classification model's performance using the f
 | **XGBoost**                |    0.9296    | 0.9613| 0.9572| 0.9655|    0.9764  | 0.9877| 0.9969| 0.9787|     0.978      | 0.9888| 0.9799| 0.9979|    0.9613    | 0.9792| 0.978 | 0.9807|
 
 
-![flowchart](https://github.com/kursatkomurcu/Zero-Shot-Classification-for-Change-Detection-in-Satellite-Imaginary/blob/main/imgs/flowchart.png)
-Flowchart of the threshold optimization
+![flowchart](https://github.com/kursatkomurcu/Zero-Shot-Classification-for-Change-Detection-in-Satellite-Imaginary/blob/main/imgs/clip.png)
+Clip Model Diagram
 
 ![histogram](https://github.com/kursatkomurcu/Zero-Shot-Classification-for-Change-Detection-in-Satellite-Imaginary/blob/main/imgs/histogram.png)
 Histogram of the datasets and optimized thresholds
