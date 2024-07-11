@@ -9,6 +9,20 @@ accurate change detection is critical.
 
 For more details about the CLIP model, visit its GitHub page: [CLIP GitHub](https://github.com/openai/CLIP).
 
+## Citiation
+
+```
+@INPROCEEDINGS{10586705,
+  author={Kömürcü, Kürşat and Petkevičius, Linas},
+  booktitle={2024 IEEE 11th Workshop on Advances in Information, Electronic and Electrical Engineering (AIEEE)}, 
+  title={Zero Shot Classification for Change Detection in Satellite Imagery}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Electrical engineering;Earth;Analytical models;Zero-shot learning;Conferences;Supervised learning;Satellite images;Zero Shot Classification;CLIP Model;Satellite Image Analysis;Change Detection},
+```
+
 ## Datasets
 The study evaluates the zero-shot classification model's performance using the following satellite image datasets:
 - **LEVIR-CD**: A large-scale building change detection dataset for urban and rural scenes. For more information, visit [LEVIR-CD Dataset](https://chenhao.in/LEVIR/).
