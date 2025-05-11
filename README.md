@@ -1,8 +1,6 @@
 # Zero-Shot Classification for Change Detection in Satellite Imagery 
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kursatkomurcu)
-
-<p align="center">
+<p align="left">
   <a href="https://www.buymeacoffee.com/kursatkomurcu">
     <img
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
