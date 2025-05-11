@@ -2,6 +2,16 @@
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kursatkomurcu)
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kursatkomurcu">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy Me A Coffee"
+      width="200"
+    />
+  </a>
+</p>
+
 This paper investigates the application of zero-shot classification using the Comparative Language-Image Pre-Training (CLIP) model for change detection in satellite imagery. 
 Since traditional supervised learning methods require extensive labeled datasets for all classes of objects in satellite images, which are often scarce or unavailable, zero-shot learning offers a promising alternative. 
 Through detailed analysis of three different satellite image datasets: LEVIR-CD, DSIFN, and S2Looking, 
